@@ -1,0 +1,8 @@
+build/
+*.o
+*.exe
+*.AppImage
+*.huff
+compressed.bin
+output.txt
+

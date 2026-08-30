@@ -1,0 +1,7 @@
+
+=== COMPRESSION REPORT ===
+Original file: 998 bytes
+Compressed file: 678 bytes
+Report compression ratio: 0.68
+Saved: 32.06%
+Average code length: 4.24 bits/char
