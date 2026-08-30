@@ -1,3 +1,4 @@
+
 # Huffman File Compressor
 
 A complete lossless file compression tool built from scratch in C++, using a custom implementation of the Huffman Coding algorithm — no external compression libraries, just hand-written binary trees, a min-heap priority queue, and bit-level file I/O.
@@ -94,3 +95,4 @@ mainwindow.h/.cpp Qt GUI wiring around the same core compression logic
 Built as a C++ / Data Structures course project — the push to add a GUI on top came from my instructor's feedback, and turned this from a class assignment into something I'd actually use.
 
 Thanks for checking it out — feedback and issues are always welcome.
+>>>>>>> 8fcbdee908a8721e717c4ee0a48b4e934bc2b6c8
