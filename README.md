@@ -15,7 +15,11 @@ Originally built as a C++ / Data Structures course project, then extended with a
 
 ## Screenshots
 
-*(add a screenshot or two of the GUI here — the file picker + stats view looks great)*
+<img width="1366" height="768" alt="Weixin Image_20260831105957_36_50" src="https://github.com/user-attachments/assets/e3badb8b-d9c7-430d-979d-d3ceb1ea167f" /><img width="976" height="1091" alt="Gemini_Generated_Image_igomjtigomjtigom" src="https://github.com/user-attachments/assets/3eb4ff3c-0b84-4971-9347-9dfe75bfa843" />
+<img width="1366" height="768" alt="Weixin Image_20260831110005_37_50" src="https://github.com/user-attachments/assets/8c9f76d5-cb9c-4e93-9b8c-a4b51810459a" />
+
+<img width="515" height="601" alt="Screenshot 2026-08-31 110611" src="https://github.com/user-attachments/assets/27c693d4-cad1-4289-9ae9-d0cd7a18225d" />
+
 
 ## Getting Started (Linux — GUI)
 
